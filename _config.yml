@@ -46,14 +46,14 @@ repository: 'madelynfourie' # change this to your repository name
 title: "Madelyn Fourie"
 
 # Subtitle of your website. Leave blank if you want to.
-subtitle: "Writer & Scholar"
+subtitle: "Professional Eldest Daughter"
 
 # A longer description of your site (max 150 words). Helps search engines find you.
 description: ""
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
-author: "MadelynFourie"
+author: "Madelyn Fourie"
 authorname : "Madelyn Fourie"
 
 # To change the photo on your homepage, open the assets folder in your Github repo, then open the img folder. Upload a photo there. Add only the name of the photo and its extension here. E.g. "alternate_logo.png")
