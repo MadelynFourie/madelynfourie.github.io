@@ -108,7 +108,7 @@ fontchoice: baloo
 #colorchoice: whitewithaccent 
 # White with an accent color (see below)
 
-colorchoice: dusk
+#colorchoice: dusk
 
 # If you chose white with an accent color, choose the ACCENT you'd like to use.
 # You can see these color choices in action at https://digitalarcplatform.kalanicraig.com/docs/
