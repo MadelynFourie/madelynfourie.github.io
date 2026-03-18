@@ -46,14 +46,14 @@ repository: 'madelynfourie' # change this to your repository name
 title: "Madelyn Fourie"
 
 # Subtitle of your website. Leave blank if you want to.
-subtitle: "Professional Eldest Daughter"
+subtitle: "Writer, Poet & Dreamer"
 
 # A longer description of your site (max 150 words). Helps search engines find you.
 description: ""
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
-author: "Madelyn Fourie"
+author: "MadelynFourie"
 authorname : "Madelyn Fourie"
 
 # To change the photo on your homepage, open the assets folder in your Github repo, then open the img folder. Upload a photo there. Add only the name of the photo and its extension here. E.g. "alternate_logo.png")
@@ -65,7 +65,7 @@ sitedate :
 
 # Other community social media. Leave blank if you don't have these.
 email : "mjworkerbee@gmail.com"
-website : "madelynfourie.github.io"
+website : ""
 twitter : ""
 github : ""
 facebook : ""
@@ -107,24 +107,23 @@ fontchoice: raleway
 #colorchoice: dusk # Dusky purple and olive green
 #colorchoice: whitewithaccent # White with an accent color (see below)
 
-colorchoice: marigold 
+colorchoice: marigold
 
 # If you chose white with an accent color, choose the ACCENT you'd like to use.
 # You can see these color choices in action at https://digitalarcplatform.kalanicraig.com/docs/
 # Uncomment the line for the color you like. Comment out all of the other lines.
 
-#accentchoice: accent-darkred # Dark red
+accentchoice: accent-darkred # Dark red
 #accentchoice: accent-red # Bright red
 #accentchoice: accent-pink # Deep pink
 #accentchoice: accent-orange # Tangerine Orange
-
+#accentchoice: accent-brown # Warm brown
 #accentchoice: accent-green # Kelly green
 #accentchoice: accent-navy # Navy blue
 #accentchoice: accent-blue # Medium blue
 #accentchoice: accent-bluegrey # Blue Grey
 #accentchoice: accent-purple # Grape purple
 #accentchoice: accent-grey # Mid Grey
-#accentchoice: accent-brown # Warm brown
 
 ##############################################
 # ORGANIZING YOUR COLLECTION
