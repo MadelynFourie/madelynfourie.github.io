@@ -105,9 +105,8 @@ fontchoice: raleway
 #colorchoice: red # Black, crimson and grey
 #colorchoice: lavenderred # Purple-grey with orange-red
 #colorchoice: dusk # Dusky purple and olive green
-#colorchoice: whitewithaccent # White with an accent color (see below)
-
-colorchoice: marigold with an accent color
+colorchoice: whitewithaccent # White with an accent color (see below)
+#colorchoice: marigold with an accent color
 
 # If you chose white with an accent color, choose the ACCENT you'd like to use.
 # You can see these color choices in action at https://digitalarcplatform.kalanicraig.com/docs/
