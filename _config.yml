@@ -64,12 +64,12 @@ placeholderimg: "placeholder.png"
 sitedate : 
 
 # Other community social media. Leave blank if you don't have these.
-email : ""
-website : ""
+email : "mjworkerbee@gmail.com"
+website : "madelynfourie.github.io"
 twitter : ""
 github : ""
 facebook : ""
-instagram : ""
+instagram : "maddiefourie"
 
 # If you need to know how many people visit your site, go to https://analytics.google.com/
 # When you finish the setup assistant, it will give you a Measurement ID: G-ABCDEFGHIJ
@@ -91,7 +91,7 @@ google_g4_analytics_id:
 #fontchoice: slab # A funky slab font with clean sans-serif accents
 #fontchoice: source # A modern serif font with clean sans-serif accents
 
-fontchoice: raleway
+fontchoice: baloo
 
 # Choose the COLORS you'd like to use.
 # You can see these color choices in action at https://digitalarcplatform.kalanicraig.com/docs/
@@ -105,9 +105,10 @@ fontchoice: raleway
 #colorchoice: red # Black, crimson and grey
 #colorchoice: lavenderred # Purple-grey with orange-red
 #colorchoice: dusk # Dusky purple and olive green
-colorchoice: whitewithaccent 
+#colorchoice: whitewithaccent 
 # White with an accent color (see below)
-#colorchoice: marigold with an accent color
+
+colorchoice: dusk
 
 # If you chose white with an accent color, choose the ACCENT you'd like to use.
 # You can see these color choices in action at https://digitalarcplatform.kalanicraig.com/docs/
@@ -124,8 +125,7 @@ colorchoice: whitewithaccent
 #accentchoice: accent-bluegrey # Blue Grey
 #accentchoice: accent-purple # Grape purple
 #accentchoice: accent-grey # Mid Grey
-
-accentchoice: accent-brown # Warm brown
+#accentchoice: accent-brown # Warm brown
 
 ##############################################
 # ORGANIZING YOUR COLLECTION
