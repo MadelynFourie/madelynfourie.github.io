@@ -5,7 +5,7 @@
 # THEME. Leave Lines 4-6 alone.
 #---------------------
 remote_theme: kalanicraig/digitalarcplatform@v1.0.1
-repository: 'madelynfourie' # change this to your repository name
+repository: 'madelynfourie.github.io' # change this to your repository name
 
 ##############################################
 # WHAT IS ALL THIS STUFF?
@@ -46,7 +46,7 @@ repository: 'madelynfourie' # change this to your repository name
 title: "Madelyn Fourie"
 
 # Subtitle of your website. Leave blank if you want to.
-subtitle: "Writer, Poet & Dreamer"
+subtitle: "Writer, Poet, Dreamer"
 
 # A longer description of your site (max 150 words). Helps search engines find you.
 description: ""
@@ -64,12 +64,12 @@ placeholderimg: "placeholder.png"
 sitedate : 
 
 # Other community social media. Leave blank if you don't have these.
-email : "mjworkerbee@gmail.com"
+email : ""
 website : ""
 twitter : ""
 github : ""
 facebook : ""
-instagram : "maddiefourie"
+instagram : ""
 
 # If you need to know how many people visit your site, go to https://analytics.google.com/
 # When you finish the setup assistant, it will give you a Measurement ID: G-ABCDEFGHIJ
@@ -113,12 +113,12 @@ colorchoice: whitewithaccent
 # You can see these color choices in action at https://digitalarcplatform.kalanicraig.com/docs/
 # Uncomment the line for the color you like. Comment out all of the other lines.
 
-#accentchoice: accent-darkred # Dark red
+accentchoice: accent-darkred # Dark red
 #accentchoice: accent-red # Bright red
 #accentchoice: accent-pink # Deep pink
 #accentchoice: accent-orange # Tangerine Orange
 #accentchoice: accent-brown # Warm brown
-accentchoice: accent-green # Kelly green
+#accentchoice: accent-green # Kelly green
 #accentchoice: accent-navy # Navy blue
 #accentchoice: accent-blue # Medium blue
 #accentchoice: accent-bluegrey # Blue Grey
