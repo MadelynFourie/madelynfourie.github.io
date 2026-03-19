@@ -53,8 +53,8 @@ description: ""
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
-author: "MadelynFourie"
-authorname : "Madelyn Fourie"
+author: "MJ"
+authorname : "Madelyn Jamie Fourie"
 
 # To change the photo on your homepage, open the assets folder in your Github repo, then open the img folder. Upload a photo there. Add only the name of the photo and its extension here. E.g. "alternate_logo.png")
 sitelogo: "site_logo.png"
@@ -65,11 +65,11 @@ sitedate :
 
 # Other community social media. Leave blank if you don't have these.
 email : ""
-website : ""
+website : "madelynfourie.github.io"
 twitter : ""
 github : ""
 facebook : ""
-instagram : ""
+instagram : "maddiefourie"
 
 # If you need to know how many people visit your site, go to https://analytics.google.com/
 # When you finish the setup assistant, it will give you a Measurement ID: G-ABCDEFGHIJ
